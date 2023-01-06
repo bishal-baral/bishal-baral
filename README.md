@@ -1,8 +1,5 @@
-<a href="https://github-readme-stats.vercel.app/api?username=bishal-baral&theme=dark">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=bishal-baral&count_private=true&show_icons=true&theme=dark" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bishal-baral&hide=php&theme=dark">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishal-baral&hide=php&theme=dark" />
-</a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bishal-baral&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishal-baral&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=bishal-baral.bishal-baral) [![Github](https://img.shields.io/github/followers/bishal-baral?label=Followers&logo=Github)](https://github.com/bishal-baral)
